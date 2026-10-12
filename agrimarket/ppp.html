@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <button id="mangga">click me</button>
+
+    <div id="item"></div>
+    
+
+    <script>
+
+        const btnMangga = document.getElementById("mangga");
+
+        btnMangga.addEventListener("click", () => {
+            document.getElementById("item").innerHTML += `
+              <h4 class="name">Mangga</h4>
+                        <h4 class="totalPrice">450.00</h4>
+                        <div class="quantity">
+                            <span class="minus" id="minus"><</span>
+                            <span id="counter">0</span>
+                            <span class="plus" id="plus">></span>
+                        </div>
+            `;
+        });
+    </script>
+
+</body>
+</html>

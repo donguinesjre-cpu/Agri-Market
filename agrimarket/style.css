@@ -1,0 +1,297 @@
+
+/* Figma Photos 1 */
+.main{
+position: absolute;
+width: 1538px;
+height: 1024px;
+left: -10px;
+top: 0px;
+
+background: url(Figma Photos);
+}
+
+
+/* Online Agricultural Marketplace */
+.h1{
+position: absolute;
+width: 455.63px;
+height: 243.26px;
+left: 66px;
+top: 257px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 77px;
+
+color: #FFFFFF;
+
+transform: rotate(-0.26deg);
+}
+
+/* login fields */
+.form{
+position: absolute;
+width: 269px;
+height: 455px;
+left: 1078px;
+top: 219px;
+
+background: rgba(4, 4, 4, 0.44);
+border-radius: 16px;
+}
+
+/* Log in Here */
+.Login_text{
+position: absolute;
+width: 219px;
+height: 26px;
+left: 25px;
+top: 46px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 26px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+}
+
+
+/* Enter Email Here */
+.email{
+position: absolute;
+width: 219px;
+height: 18px;
+left: 25px;
+top: 101px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+text-align: center;
+
+color: #070707;
+}
+
+
+/* Line 3 */
+
+position: absolute;
+width: 219px;
+height: 0px;
+left: 25px;
+top: 148px;
+
+border: 1px solid #FF7700;
+
+
+/* Enter Password Here */
+.password{
+position: absolute;
+width: 219px;
+height: 10px;
+left: 25px;
+top: 177px;
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+text-align: center;
+
+color: #000000;
+}
+
+
+/* Line 4 */
+
+position: absolute;
+width: 213px;
+height: 0px;
+left: 28px;
+top: 224px;
+
+border: 1px solid #FF7A05;
+
+
+/* log in button */
+.btnn{
+/* Auto layout */
+
+align-items: flex-start;
+padding: 10px;
+gap: 10px;
+
+position: absolute;
+width: 78px;
+height: 46px;
+left: 95.5px;
+top: 253px;
+
+background: #F9D400;
+border-radius: 9px;
+}
+
+/* Log in */
+
+width: 58px;
+height: 26px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 26px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Don’t have an account? */
+
+position: absolute;
+width: 219px;
+height: 26px;
+left: 25px;
+top: 328px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 26px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Signup button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 10px;
+gap: 10px;
+
+position: absolute;
+width: 139px;
+height: 46px;
+left: 65px;
+top: 371px;
+
+background: #F9D400;
+border-radius: 9px;
+
+
+/* Sign up Here */
+
+width: 119px;
+height: 26px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 26px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Logo */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 10px;
+gap: 10px;
+
+position: absolute;
+width: 410px;
+height: 108px;
+left: 56px;
+top: 57px;
+
+
+
+/* AgriMarket */
+
+width: 390px;
+height: 88px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 700;
+font-size: 60px;
+line-height: 78px;
+
+color: #FF5E07;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* paragraph */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 10px;
+gap: 10px;
+
+position: absolute;
+width: 837px;
+height: 62px;
+left: 22px;
+top: 938px;
+
+border: 1px solid #000000;
+border-radius: 10px;
+
+
+/* Agri market, is a wed based platform that connects vendors and consumers in online marketplace where agricultural products can be bought online. */
+
+width: 817px;
+height: 42px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #F9F9F9;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
